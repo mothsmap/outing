@@ -1,2 +1,190 @@
 {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "苗文建、石端广：公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.32354259490968,
+          39.99431735069529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "马灵霞：林萃桥"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.36823892593384,
+          40.021616902296195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "吴再：西二旗地铁站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.30000352859496,
+          40.0517142810926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "秦丽丽：生命科学园"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.28822326660156,
+          40.09363459618479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "刘超军：西三旗硅谷先锋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.34075164794922,
+          40.055869698308086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "徐翔：惠新西街北口地铁站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4105749130249,
+          39.98667283516934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "田昌明：牡丹园"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.36332511901855,
+          39.974818034483754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "黄唯：双井、国贸附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45619392395018,
+          39.89571152744179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "杨亮：东直门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.42769813537598,
+          39.94008034732476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "王洒：角门西"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.36529922485352,
+          39.8453174337574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "陈前：三元桥"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.44829750061034,
+          39.9567934827009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "少鹏：靠北下车，最好昌平地铁站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.22728347778319,
+          40.21873275657034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "春虎：靠东边下车"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.57292366027832,
+          39.92277071156262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#eb0cf1",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "note": "黄花城水长城"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.33852005004881,
+          40.40761426997893
+        ]
+      }
+    }
+  ]
 }
