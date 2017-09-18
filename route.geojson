@@ -174,7 +174,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#eb0cf1",
-        "marker-size": "medium",
+        "marker-size": "",
         "marker-symbol": "",
         "note": "黄花城水长城"
       },
@@ -189,8 +189,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "",
+        "marker-size": "",
         "marker-symbol": "",
         "note": "刘春秋：回龙观"
       },
