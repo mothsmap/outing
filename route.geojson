@@ -185,6 +185,22 @@
           40.40761426997893
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "note": "刘春秋：回龙观"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.33004426956177,
+          40.06951673640446
+        ]
+      }
     }
   ]
 }
