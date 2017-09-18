@@ -173,6 +173,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#e601f3",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "note": "黄花城水长城"
       },
       "geometry": {
